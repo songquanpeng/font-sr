@@ -2,7 +2,7 @@
 > 超分辨模糊的字体图片，使其清晰没有锯齿。
 
 <span>
-<img src="./imgs/origin.png" width="256" alt="超分辨前"> <img src="./imgs/origin_sr.png" width="256" alt="超分辨后">
+<img src="archive/demo_origin.png" width="256" alt="超分辨前"> <img src="archive/demo_sr.png" width="256" alt="超分辨后">
 </span>
 
 ## 使用步骤
